@@ -11,6 +11,17 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.2.0",
-    "formidable": "^1.2.0"
-  }
+    "formidable": "^1.2.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goget9/zadanie-13-9.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/goget9/zadanie-13-9/issues"
+  },
+  "homepage": "https://github.com/goget9/zadanie-13-9#readme"
 }
